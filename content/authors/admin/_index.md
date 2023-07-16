@@ -5,10 +5,12 @@ bio: ""
 interests:
   - Reasoning
   - Judgment
-  - Decision Making Belief formation and perseverance Cognitive mechanism
-    underlying epistemically suspect beliefs
+  - Decision Making
+  - Belief formation and perseverance
+  - Cognitive mechanism underlying epistemically suspect beliefs
   - conspiracy theory
-  - and fake news Online research conduct
+  - and fake news
+  - Online research conduct
 social:
   - icon: envelope
     icon_pack: fas
