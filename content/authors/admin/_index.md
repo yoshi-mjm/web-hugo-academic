@@ -45,9 +45,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Majima
 highlight_name: true
-first_name: Alice
+first_name: Yoshimasa
 email: ""
 ---
 Yoshimasa Majima is a professor of cognitive psychology at the Department of Psychology, the Hokusei Gakuen University. His research interests include human cognitive process of thinking, such as reasoning, judgment, and decision making. 
