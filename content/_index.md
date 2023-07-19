@@ -29,7 +29,7 @@ sections:
           icon_pack: fab
         - name: Linux
           description: 30%
-          icon: Linux
+          icon: linux
           icon_pack: fab
         - name: Network
           description: 15%
