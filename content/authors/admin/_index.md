@@ -7,9 +7,7 @@ interests:
   - Judgment
   - Decision Making
   - Belief formation and perseverance
-  - Cognitive mechanism underlying epistemically suspect beliefs
-  - conspiracy theory
-  - and fake news
+  - Cognitive mechanism underlying epistemically suspect beliefs, conspiracy theory and fake news
   - Online research conduct
 social:
   - icon: envelope
