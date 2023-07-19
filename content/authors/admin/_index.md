@@ -14,19 +14,22 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 'mailto:majima.y@gmail.com'  # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yoshi_mjm
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yoshimasa_Majima
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.co.jp/citations?user=fdFvfDQAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-3579-1546
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 organizations:
   - name: Hokusei Gakuen University
     url: https://www.hokusei.ac.jp/
@@ -49,4 +52,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Yoshimasa Majima is a professor of cognitive psychology at the Department of Psychology, the Hokusei Gakuen University. His research interests include human cognitive process of thinking, such as reasoning, judgment, and decision making.
+Yoshimasa Majima is a professor of cognitive psychology at the Department of Psychology, the Hokusei Gakuen University. His research interests include human cognitive process of thinking, such as reasoning, judgment, and decision making. 
+
+北星学園大学・社会福祉学部・心理学科・教授（専門領域：推論，判断，意思決定などの思考の認知心理学）
+
+> For students (and are interested in our labs) in Hokusei Gakuen Univ. Please visit [Seminar(Lab)](lab/) Page!
+> 
+> 北星学園大学・心理学科の学生でゼミについて知りたい方は，[Seminar(Lab)](lab/) ページをご覧ください!

@@ -16,18 +16,42 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 30%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 100%
+          description: 50%
           icon: chart-line
+          icon_pack: fas
+        - name: Apple
+          description: 50%
+          icon: apple
+          icon_pack: fab
+        - name: Linux
+          description: 30%
+          icon: Linux
+          icon_pack: fab
+        - name: Network
+          description: 15%
+          icon: wifi
+          icon_pack: fas
+        - name: Coffee
+          description: 100%
+          icon: coffee
           icon_pack: fas
         - name: Photography
           description: 10%
-          icon: camera-retro
+          icon: camera
           icon_pack: fas
-  - block: experience
+        - name: Aircraft
+          description: 30%
+          icon: fighter-jet
+          icon_pack: fas
+        - name: Car
+          description: 30%
+          icon: car
+          icon_pack: fas
+- block: experience
     content:
       title: Experience
       # Date format for experience
