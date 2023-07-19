@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: forest
+  theme_night: forest
+  font: classic
+  font_size: M
 
 # SEO
 
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Hokusei Gakuen University'
+    description: 'Majima Lab. powered by Wowchemy website builder.'
+    twitter: 'yoshi_mjm'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
