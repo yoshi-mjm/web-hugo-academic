@@ -3,7 +3,7 @@
 
 title: "擬人化傾向尺度日本語版の作成"
 authors: ["中村 紘子", "松尾 朗子", "眞嶋 良全"]
-date: 2025-04-02T08:38:00+09:00
+date: 2024-08-25T00:00:00+09:00
 doi: "10.4992/jjpsy.95.22217"
 
 # Schedule page publish date (NOT publication's date).

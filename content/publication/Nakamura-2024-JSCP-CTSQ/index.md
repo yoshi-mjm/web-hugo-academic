@@ -3,7 +3,7 @@
 
 title: "4-Component Thinking Styles Questionnaire 日本語版の作成"
 authors: ["中村 紘子", "高橋 達二", "眞嶋 良全"]
-date: 2025-04-02T08:42:00+09:00
+date: 2025-03-26T00:00:00+09:00
 doi: "10.5265/jcogpsy.22.145"
 
 # Schedule page publish date (NOT publication's date).

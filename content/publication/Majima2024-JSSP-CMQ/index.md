@@ -3,7 +3,7 @@
 
 title: "日本語版陰謀論的心性質問票の開発と妥当性の検討"
 authors: ["眞嶋 良全"]
-date: 2025-04-02T08:35:00+09:00
+date: 2024-07-31T00:00:00+09:00
 doi: "10.14966/jssp.2023-012"
 
 # Schedule page publish date (NOT publication's date).
