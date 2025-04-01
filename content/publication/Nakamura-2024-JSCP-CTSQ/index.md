@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Happy thoughts: The role of communion in accepting and sharing (mis)beliefs"
-authors: ["Altay S","Majima Y","Mercier H"]
-date: 2025-04-02T08:29:00+09:00
-doi: "10.1111/bjso.12650"
+title: "4-Component Thinking Styles Questionnaire 日本語版の作成"
+authors: ["中村 紘子", "高橋 達二", "眞嶋 良全"]
+date: 2025-04-02T08:42:00+09:00
+doi: "10.5265/jcogpsy.22.145"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-21T00:00:00+09:00
+publishDate: 2025-03-26T00:00:00+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2023-05-21T00:00:00+09:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Social Psychology, 62,1672-1692."
+publication: "認知心理学研究, 22, 145-159."
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["belief","communion"]
+tags: ["合理性","rationality","二重過程理論","dual process theory","思考スタイル","thinking style"]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.jstage.jst.go.jp/article/jcogpsy/22/2/22_2404/_pdf/-char/ja
 url_code:
 url_dataset:
 url_poster:

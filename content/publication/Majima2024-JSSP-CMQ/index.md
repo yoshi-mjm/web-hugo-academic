@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Happy thoughts: The role of communion in accepting and sharing (mis)beliefs"
-authors: ["Altay S","Majima Y","Mercier H"]
-date: 2025-04-02T08:29:00+09:00
-doi: "10.1111/bjso.12650"
+title: "日本語版陰謀論的心性質問票の開発と妥当性の検討"
+authors: ["眞嶋 良全"]
+date: 2025-04-02T08:35:00+09:00
+doi: "10.14966/jssp.2023-012"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-21T00:00:00+09:00
+publishDate: 2024-07-31T00:00:00+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2023-05-21T00:00:00+09:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Social Psychology, 62,1672-1692."
+publication: "社会心理学研究, 40, 35-45."
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["belief","communion"]
+tags: ["conspiracy theory","CMQ"]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.jstage.jst.go.jp/article/jssp/40/1/40_2023-012/_pdf/-char/ja
 url_code:
 url_dataset:
 url_poster:
