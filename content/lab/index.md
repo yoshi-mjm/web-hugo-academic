@@ -12,13 +12,12 @@ header:
   caption: ""
   image: ""
 ---
-
 #### 2025年度ゼミ選択について
 
-> 対面での説明会を行います。詳細はオリエンテーション資料を参照してください。
-> どうしても都合が合わない場合，または非対面での面談を希望する場合は，必ずメール等で相談してください。
+> ~~対面での説明会を行います。詳細はオリエンテーション資料を参照してください。
+> どうしても都合が合わない場合，または非対面での面談を希望する場合は，必ずメール等で相談してください。~~
 
-{{<toc>}}
+{{`<toc>`}}
 
 ### 研究およびキーワード / Research fields and keywords
 
@@ -26,7 +25,7 @@ header:
 
 - 認知心理学，思考，推論, 判断, 意思決定 / Cognitive Psychology, thinking, reasoning, judgment, decision making
 - キーワード / Keywords
-  - 帰納 / induction,     
+  - 帰納 / induction,
   - （しばしば感情を伴う）直感的な思考の合理性と非合理性 / (ir)rationality of intuitive thinking
   - 陰謀論，疑似科学，フェイクニュース / conspiracy theory, pseudoscience, fake-news
   - 認知スタイル: cognitive style
@@ -38,24 +37,23 @@ header:
 ### 教員 / Director
 
 - 眞嶋 良全 / Dr. Yoshimasa Majima (Professor of cognitive psychology)
-  - Profile: [{{<icon name="researchgate" pack="ai">}}ResearchGate](https://www.researchgate.net/profile/Yoshimasa_Majima) | [Researchmap (JST)](https://researchmap.jp/yoshi-majima) | [{{<icon name="orcid" pack="ai">}}ORCID](https://orcid.org/0000-0003-3579-1546)
-  - SNS and contact info: [{{<icon name="envelope" pack="fas">}}](mailto:majima.y@gmail.com) [{{<icon name="twitter" pack="fab">}}](https://twitter.com/yoshi_mjm) [{{<icon name="researchgate" pack="ai">}}](https://www.researchgate.net/profile/Yoshimasa_Majima)
+  - Profile: [{{`<icon name="researchgate" pack="ai">`}}ResearchGate](https://www.researchgate.net/profile/Yoshimasa_Majima) | [Researchmap (JST)](https://researchmap.jp/yoshi-majima) | [{{`<icon name="orcid" pack="ai">`}}ORCID](https://orcid.org/0000-0003-3579-1546)
+  - SNS and contact info: [{{`<icon name="envelope" pack="fas">`}}](mailto:majima.y@gmail.com) [{{`<icon name="twitter" pack="fab">`}}](https://twitter.com/yoshi_mjm) [{{`<icon name="researchgate" pack="ai">`}}](https://www.researchgate.net/profile/Yoshimasa_Majima)
 
 #### 4年生
 
 - 尾崎　照英
-- 小澤　楓 
+- 小澤　楓
 - 後藤　暖貴
 - 沢　　和泰
-- 忽滑谷　里美 
-- 本間　友梨 
+- 忽滑谷　里美
+- 本間　友梨
 - 宮田 あい菜
 - 小熊　優希
 - 高野　華凜
 - 田中　陽菜
 
 #### 3年生
-
 
 ### ゼミ / Research Seminar
 
@@ -72,14 +70,13 @@ header:
 - 上記2つの発表のうち，永澤さん，淡路さん，高野さんによるものは，2023年度北海道心理学会研究奨励賞を受賞しています ([https://hps.smoosy.atlas.jp/ja/award_list](https://hps.smoosy.atlas.jp/ja/award_list))。
 - 心理学領域の論文は英語で書かれているものがほとんとですが，英語の授業ではないので，翻訳ツールなどの利用も認めています。また，文献管理ソフトウェアなど，作業を効率化するツールを積極的に導入しています。
 
-
-
 ### 過去の卒論タイトル / Titles of Past Graduate Theses
 
 - 学生諸氏の努力もあり，ゼミ開設以来，数多くの，年度内最優秀卒業論文を獲得する学生を輩出することができました。
 - 卒業論文が最優秀となった学生には，3月上旬に開催される心理学フォーラム（学科の同窓会を兼ねたイベント）で卒業研究発表をしてもらっています。
 
 2024年
+
 - ソーシャルメディアにおける共有行動にプロンプトが及ぼす影響
 - 気晴らしが実行機能に与える影響
 - 公正世界信念が加害者の量刑判断に与える影響の検討
@@ -88,17 +85,20 @@ header:
 - 期待と現実の乖離および認知的柔軟性が主観的幸福感に与える影響 **※ 2024年度学科最優秀卒業論文**
 
 2023年
+
 - 同性と異性でのジェンダーステレオタイプの告発のしやすさの違いに関する研究
 - 無意識的思考およびその目標指向性が課題解決に与える影響
 - 陰謀論と叡智に関する研究
 - 感謝介入の向社会性向上効果に関するメタ分析 **※ 2023年度学科最優秀卒業論文**
 
 2022年
+
 - 仮想空間上で相対するアバターとのインタラクションに関する研究
 - 合理的配慮提供意図と解釈レベルの関連
 - SNS上の信頼できない情報の拡散に正義感が及ぼす影響
 
 2021年
+
 - メールと LINE のエモティコン付与による対人感情に及ぼす影響の比較検討
 - 形容詞からイメージされる典型色と記憶の関連について
 - 過敏型自己愛および自尊心の程度によるSNSの利用の違い
