@@ -16,9 +16,6 @@ header:
 
 > 2025年度のゼミ選択は終了しました。
 
-
-{{`<toc>`}}
-
 ### 研究およびキーワード / Research fields and keywords
 
 研究領域 / Research fields
