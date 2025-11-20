@@ -34,7 +34,7 @@ header:
 ### 教員 / Director
 
 - 眞嶋 良全 / Dr. Yoshimasa Majima (Professor of cognitive psychology)
-  - Profile: [{{`<icon name="researchgate" pack="academicicons">`}}ResearchGate](https://www.researchgate.net/profile/Yoshimasa_Majima) | [Researchmap (JST)](https://researchmap.jp/yoshi-majima) | [{{`<icon name="orcid" pack="academicicons">`}}ORCID](https://orcid.org/0000-0003-3579-1546)
+  - Profile: [{{`<icon name="researchgate" pack="ai">`}}ResearchGate](https://www.researchgate.net/profile/Yoshimasa_Majima) | [Researchmap (JST)](https://researchmap.jp/yoshi-majima) | [{{`<icon name="orcid" pack="ai">`}}ORCID](https://orcid.org/0000-0003-3579-1546)
   - SNS and contact info: [{{`<icon name="envelope" pack="fas">`}}](mailto:majima.y@gmail.com) [{{`<icon name="twitter" pack="fab">`}}](https://twitter.com/yoshi_mjm) [{{`<icon name="researchgate" pack="ai">`}}](https://www.researchgate.net/profile/Yoshimasa_Majima)
 
 #### 4年生
